@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  }
+  
+  html {
+   font-family: sans-serif;
+   height: 100%;
+  }
+  
+  body {
+  overflow: hidden;
+   height: inherit;
+  }
+  
+  h1 {
+   font-size: 5rem;
+   letter-spacing: -1px;
+   position: absolute;
+  margin: 0;
+   top: 10px;
+   right: 610px;
+  
+   color: rgb(0, 0, 0);
+   text-shadow: 0 0 4px rgb(219, 29, 41);
+  }
+  
+  
